@@ -2,7 +2,6 @@ import './App.css';
 import { useState } from 'react';
 
 
-
 function App() {
   const [wishList, setWishList] = useState([]);
   const [newWish, setNewWish] = useState('');

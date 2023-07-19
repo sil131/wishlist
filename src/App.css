@@ -24,11 +24,10 @@ body {
   opacity: 0.5;
 }
 
-
 .app h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  text-align: center;
+  align-items: center;
 }
 
 .wish-input {
@@ -87,11 +86,11 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 1rem; /* Espacio entre el icono y el texto */
+  margin-bottom: 1rem; 
 }
 
 .wishlist-icon img {
-  width: 100px; /* Ajusta el tamaño del icono según tus preferencias */
+  width: 100px; 
   height: 100px;
   
 }
